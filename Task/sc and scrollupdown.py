@@ -12,4 +12,6 @@ s=Select(d)
 s.select_by_value('2')
 s.select_by_index(3)
 s.select_by_visible_text("Rajasthan")
+print ("new update")
+print ("new update for git exercise")
 
